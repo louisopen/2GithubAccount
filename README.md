@@ -1,4 +1,4 @@
-## ※Two Github Account in the same Windows PC
+## ※Two Github Account in the Windows
 Operate 2 github account SSH key in the same Windows<br>
 如何在Windows上面同時使用兩個Github帳號<br>
 通常在你已經有一個Github帳號下的操作並不會有這樣的困擾, 但如果你有工作上的需要會有另一個工作上的Github帳號, 在同時有兩個Github帳號下, 指令操作git pul, git push就會發生非常困擾及混亂的情形, 以下是解決方式<br>
